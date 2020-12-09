@@ -50,7 +50,6 @@
                             <el-button :loading="isLoading" icon="el-icon-search" type="primary" @click="onSubmit">
                                 Search
                             </el-button>
-                            <el-button @click="resetForm('form')">Reset</el-button>
                         </el-form-item>
                     </el-form>
                 </el-col>
